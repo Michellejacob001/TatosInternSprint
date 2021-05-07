@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133275151304",
+    "project_id": "tatosui-29051",
+    "storage_bucket": "tatosui-29051.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133275151304:android:95da3579f96620e6692efd",
+        "android_client_info": {
+          "package_name": "com.example.ui1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133275151304-uak4j1308b6jjn5irnh9sicg8fjjq003.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB34gGjCZyoMMvBru2bG0p8fs4q5SdoSDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133275151304-uak4j1308b6jjn5irnh9sicg8fjjq003.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
